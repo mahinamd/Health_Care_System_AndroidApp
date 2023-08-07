@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="articleListView" type="id" />
+    <item name="testListView" type="id" />
+    <item name="orderListView" type="id" />
+    <item name="confirmPasswordEditText" type="id" />
+</resources>
